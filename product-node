@@ -1,7 +1,7 @@
 [{
 	"productID": 1,
 	"productName": "Chai",
-	"SupplierId": "8",
+	"SupplierId": 8,
 	"CategoryID": "1",
 	"QuantityPerUnit": "10 boxes x 30 bags",
 	"unitPrice": 18,
@@ -45,7 +45,7 @@
 }, {
 	"productID": 5,
 	"productName": "Sir Rodney's Marmalade",
-	"SupplierId": 8,
+	"SupplierId": 4,
 	"CategoryID": 3,
 	"QuantityPerUnit": "30 gift boxes",
 	"unitPrice": 81,
@@ -56,7 +56,7 @@
 }, {
 	"productID": 6,
 	"productName": "Sir Rodney's Scones",
-	"SupplierId": 8,
+	"SupplierId": 3,
 	"CategoryID": 3,
 	"QuantityPerUnit": "24 pkgs. x 4 pieces",
 	"unitPrice": 10,
