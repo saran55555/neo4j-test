@@ -1,21 +1,21 @@
 [{
 	"companyName": "Exotic Liquids",
-	"supplierID": "1",
+	"supplierID": 1,
 	"contactName": "Charlotte Cooper",
 	"Country": "UK"
 }, {
 	"companyName": "Specialty Biscuits, Ltd.",
-	"supplierID": "8",
+	"supplierID": 8,
 	"contactName": "Peter Wilson",
 	"Country": "UK"
 }, {
 	"companyName": "Bigfoot Breweries",
-	"supplierID": "3",
+	"supplierID": 3,
 	"contactName": "Cheryl Saylor",
 	"Country": "USA"
 }, {
 	"companyName": "Exotic Liquids",
-	"supplierID": "4",
+	"supplierID": 4,
 	"contactName": "Marie Delamare",
 	"Country": "FRANCE"
 }]
