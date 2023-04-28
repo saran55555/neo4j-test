@@ -1,46 +1,46 @@
 [{
-	"orderId": "toInteger(10248)",
+	"orderId": 10248",
 	"productID": 1,
 	"country": "Germany",
-	"unitPrice": "toFloat(14.4)"
+	"unitPrice": 14.4
 }, {
-	"orderId": "toInteger(10370)",
+	"orderId": 10370,
 	"productID": 1,
 	"country": "Switzerland",
-	"unitPrice": "toFloat(14.4)"
+	"unitPrice": 14.4
 }, {
-	"orderId": "toInteger(11047)",
+	"orderId": 11047,
 	"productID": 1,
 	"country": "UK",
-	"unitPrice": "toFloat(18)"
+	"unitPrice": 18
 }, {
-	"orderId": "toInteger(10255)",
+	"orderId": 10255,
 	"productID": 2,
 	"country": "Switzerland",
-	"unitPrice": "toFloat(15.2)"
+	"unitPrice": 15.2
 }, {
-	"orderId": "toInteger(10393)",
+	"orderId": 10393,
 	"productID": 2,
 	"country": "USA",
-	"unitPrice": "toFloat(15.2)"
+	"unitPrice": 15.2
 }, {
-	"orderId": "toInteger(10405)",
+	"orderId": 10405,
 	"productID": 3,
 	"country": "UK",
-	"unitPrice": "toFloat(8)"
+	"unitPrice": 8
 }, {
-	"orderId": "toInteger(11077)",
+	"orderId": 11077,
 	"productID": 3,
 	"country": "USA",
-	"unitPrice": "toFloat(10)"
+	"unitPrice": 10
 }, {
-	"orderId": "toInteger(10406)",
+	"orderId": 10406,
 	"productID": 4,
 	"country": "UK",
-	"unitPrice": "toFloat(18.4)"
+	"unitPrice": 18.4
 }, {
-	"orderId": "toInteger(11071)",
+	"orderId": 11071,
 	"productID": 5,
 	"country": "USA",
-	"unitPrice": "toFloat(20)"
+	"unitPrice": 20
 }]
