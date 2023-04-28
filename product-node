@@ -1,1 +1,67 @@
-[{productID: 1,productName: "Chai",SupplierId: "8",CategoryID: "1",QuantityPerUnit: "10 boxes x 30 bags",unitPrice: toFloat(18),unitsInStock: toInteger(39),unitsOnOrder: toInteger(0),reorderLevel:toInteger(10),discontinued: ("0")}, {productID: 2,productName: "Chang",SupplierId: "1",CategoryID: "1",QuantityPerUnit: "24 - 12 oz bottles",unitPrice: toFloat(19),unitsInStock: toInteger(17),unitsOnOrder: toInteger(40),reorderLevel:toInteger(25),discontinued: ("1")},{productID: 3,productName: "Aniseed Syrup",SupplierId: "1",CategoryID: "2",QuantityPerUnit: "12 - 550 ml bottles",unitPrice: toFloat(10),unitsInStock: toInteger(13),unitsOnOrder: toInteger(70),reorderLevel:toInteger(25),discontinued: ("0")},{productID: 4,productName: "Teatime Chocolate Biscuits",SupplierId: "8",CategoryID: "3",QuantityPerUnit: "10 boxes x 12 pieces",unitPrice: toFloat(9.2),unitsInStock: toInteger(25),unitsOnOrder: toInteger(0),reorderLevel:toInteger(5),discontinued: ("0")},{productID: 5,productName: "Sir Rodney's Marmalade",SupplierId: "8",CategoryID: "3",QuantityPerUnit: "30 gift boxes",unitPrice: toFloat(81),unitsInStock: toInteger(40),unitsOnOrder: toInteger(0),reorderLevel:toInteger(0),discontinued: ("0")},{productID: 6,productName: "Sir Rodney's Scones",SupplierId: "8",CategoryID: "3",QuantityPerUnit: "24 pkgs. x 4 pieces",unitPrice: toFloat(10),unitsInStock: toInteger(3),unitsOnOrder: toInteger(40),reorderLevel:toInteger(5),discontinued: ("0")}]
+[{
+	"productID": 1,
+	"productName": "Chai",
+	"SupplierId": "8",
+	"CategoryID": "1",
+	"QuantityPerUnit": "10 boxes x 30 bags",
+	"unitPrice": "toFloat(18)",
+	"unitsInStock": "toInteger(39)",
+	"unitsOnOrder": "toInteger(0)",
+	"reorderLevel": "toInteger(10)",
+	"discontinued": 0
+}, {
+	"productID": 2,
+	"productName": "Chang",
+	"SupplierId": "1",
+	"CategoryID": "1",
+	"QuantityPerUnit": "24 - 12 oz bottles",
+	"unitPrice": "toFloat(19)",
+	"unitsInStock": "toInteger(17)",
+	"unitsOnOrder": "toInteger(40)",
+	"reorderLevel": "toInteger(25)",
+	"discontinued": 1
+}, {
+	"productID": 3,
+	"productName": "Aniseed Syrup",
+	"SupplierId": "1",
+	"CategoryID": "2",
+	"QuantityPerUnit": "12 - 550 ml bottles",
+	"unitPrice": "toFloat(10)",
+	"unitsInStock": "toInteger(13)",
+	"unitsOnOrder": "toInteger(70)",
+	"reorderLevel": "toInteger(25)",
+	"discontinued": 0
+}, {
+	"productID": 4,
+	"productName": "Teatime Chocolate Biscuits",
+	"SupplierId": "8",
+	"CategoryID": "3",
+	"QuantityPerUnit": "10 boxes x 12 pieces",
+	"unitPrice": "toFloat(9.2)",
+	"unitsInStock": "toInteger(25)",
+	"unitsOnOrder": "toInteger(0)",
+	"reorderLevel": "toInteger(5)",
+	"discontinued": 0
+}, {
+	"productID": 5,
+	"productName": "Sir Rodney's Marmalade",
+	"SupplierId": "8",
+	"CategoryID": "3",
+	"QuantityPerUnit": "30 gift boxes",
+	"unitPrice": "toFloat(81)",
+	"unitsInStock": "toInteger(40)",
+	"unitsOnOrder": "toInteger(0)",
+	"reorderLevel": "toInteger(0)",
+	"discontinued": 0
+}, {
+	"productID": 6,
+	"productName": "Sir Rodney's Scones",
+	"SupplierId": "8",
+	"CategoryID": "3",
+	"QuantityPerUnit": "24 pkgs. x 4 pieces",
+	"unitPrice": "toFloat(10)",
+	"unitsInStock": "toInteger(3)",
+	"unitsOnOrder": "toInteger(40)",
+	"reorderLevel": "toInteger(5)",
+	"discontinued": 0
+}]
